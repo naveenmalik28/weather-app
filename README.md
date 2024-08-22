@@ -5,15 +5,20 @@ The Weather App is a simple web application built with React that allows users t
 ## Features
 
 -Fetches current weather data for any city using the OpenWeatherMap API.
+
 -Displays temperature, weather condition, and city name.
+
 -Provides error handling for invalid city names and network issues.
+
 -Simple and responsive user interface.
 
 ## Technologies Used
 
-React: A JavaScript library for building user interfaces.
-Axios: A promise-based HTTP client for making API requests.
-OpenWeatherMap API: A service that provides weather data.
+-React: A JavaScript library for building user interfaces.
+
+-Axios: A promise-based HTTP client for making API requests.
+
+-OpenWeatherMap API: A service that provides weather data.
 
 ## Usage
 
